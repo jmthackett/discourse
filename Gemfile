@@ -39,6 +39,8 @@ gem 'active_model_serializers', '~> 0.8.3'
 
 gem 'onebox'
 
+gem 'sorcerer'
+
 gem 'ember-rails'
 gem 'ember-source', '1.12.2'
 gem 'barber'
