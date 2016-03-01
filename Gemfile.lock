@@ -478,6 +478,7 @@ DEPENDENCIES
   simple-rss
   simplecov
   sinatra
+  sorcerer
   spork-rails
   stackprof
   therubyracer
